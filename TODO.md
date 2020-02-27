@@ -14,3 +14,4 @@
 * Securing Twitter
 * Securing FB
 * ยืนยันเบอร์มือถือโดยไม่ใช้มือถือ
+* ติดตั้งและใช้งาน Mastodon / Pleroma แทน Twitter
