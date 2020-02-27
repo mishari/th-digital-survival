@@ -1,5 +1,6 @@
 # TODO LIST
 
+* Contribute.md
 * Secure passwords
 * Malware scan
 * Tor (https://tor.eff.org)
