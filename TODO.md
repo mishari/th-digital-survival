@@ -10,3 +10,6 @@
 * Phishing - อย่ากดลิ้งค์มั่ว
 * Operational Security (Opsec) การปกปิดข้อมูลเบื้องต้น
 * ทำยังไงเมื่อโดนจับ (ilaw)
+* Securing Twitter
+* Securing FB
+* ยืนยันเบอร์มือถือโดยไม่ใช้มือถือ
