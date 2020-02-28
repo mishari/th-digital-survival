@@ -1,6 +1,7 @@
 # TODO LIST
 
 ## Contents list
+* Metadata
 * Secure passwords
     * Two-factor authentication
 * Malware scan
