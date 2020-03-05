@@ -2,19 +2,19 @@
 
 ## Contents list
 * Metadata
-* Secure passwords
-    * Two-factor authentication
+* Secure passwords รหัสผ่านที่ปลอดภัย
+    * Two-factor authentication การยืนยันตัวตนสองชั้น
 * Malware scan
 * Tor (https://tor.eff.org)
 * Tails (https://tails.boum.org/)
 * Safe chat and social media apps
-    * Securing Twitter
-    * Securing FB
+    * ตั้งค่าและใช้งาน Twitter ให้ปลอดภัย
+    * ตั้งค่าและใช้งาน Facebook ให้ปลอดภัย
     * สร้างห้อง Telegram
     * ติดตั้งและใช้งาน Mastodon / Pleroma แทน Twitter
 * VPN
 * ตั้งรหัสผ่านมือถือ
-* Phishing - อย่ากดลิ้งค์มั่ว
+* Phishing - อย่ากดลิงก์มั่ว
 * Operational Security (Opsec) การปกปิดข้อมูลเบื้องต้น
 * ทำยังไงเมื่อโดนจับ (ilaw)
 * ยืนยันเบอร์มือถือโดยไม่ใช้มือถือ
