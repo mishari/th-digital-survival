@@ -1,6 +1,6 @@
 # TODO LIST
 
-##* Contents list
+## Contents list
 * Metadata
 * Secure passwords รหัสผ่านที่ปลอดภัย
     * Two-factor authentication การยืนยันตัวตนสองชั้น
@@ -32,5 +32,5 @@
 ## Misc
 * Contribute.md* ติดตั้งและใช้งาน Mastodon / Pleroma แทน Twitter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQwMjg4NjJdfQ==
+eyJoaXN0b3J5IjpbLTc5NjExMjEzNF19
 -->
