@@ -17,12 +17,12 @@
 
 ## สารบัญ
 * หลักการพื้นฐานของอินเทอร์เน็ต
-    * [ที่อยู่ไอพี](internet-principles/ip.md)
-    * [ข้อมูลที่ส่งบนเน็ตก็เหมือนโปสการ์ด](internet-principles/Internet are postcards.md)
+    * [ที่อยู่ไอพี](internet-principles/ip-address.md)
+    * [ข้อมูลที่ส่งบนเน็ตก็เหมือนโปสการ์ด](internet-principles/internet-are-postcards.md)
 * การปกปิดตัวตน
-    * [VPN](anonymity/VPN.md)
+    * [VPN](anonymity/vpn.md)
 * การสนทนาอย่างปลอดภัย
-    * [การเข้ารหัส](secure-messaging/Encryption.md)
+    * [การเข้ารหัส](secure-messaging/encryption.md)
 
 ## การมีส่วนร่วม
 
