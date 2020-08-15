@@ -23,6 +23,8 @@
     * [VPN](anonymity/vpn.md)
 * การสนทนาอย่างปลอดภัย
     * [การเข้ารหัส](secure-messaging/encryption.md)
+* การร่วมชุมนุมประท้วง
+    * [เตรียมอุปกรณ์มือถือ](protesting/device-procedures.md)
 
 ## การมีส่วนร่วม
 
