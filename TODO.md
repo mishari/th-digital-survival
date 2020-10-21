@@ -28,6 +28,4 @@
 
 ## Misc
 * Contribute.md* ติดตั้งและใช้งาน Mastodon / Pleroma แทน Twitter
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjExMjEzNF19
--->
+
