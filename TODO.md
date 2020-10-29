@@ -13,6 +13,7 @@
     * สร้างห้อง Telegram
     * ติดตั้งและใช้งาน Mastodon / Pleroma แทน Twitterribute.md
 * Secure passwords
+* Malware scan
 * Tor (https://tor.eff.org)
 * Tails (https://tails.boum.org/)
 * สร้างห้อง Telegram
@@ -21,11 +22,13 @@
 * Phishing - อย่ากดลิงก้งค์มั่ว
 * Operational Security (Opsec) การปกปิดข้อมูลเบื้องต้น
 * ทำยังไงเมื่อโดนจับ (ilaw)
+* Securing Twitter
+* Securing FB
 * ยืนยันเบอร์มือถือโดยไม่ใช้มือถือ
 
 ## Enhancements
 * Table of Contents
 
 ## Misc
-* Contribute.md* ติดตั้งและใช้งาน Mastodon / Pleroma แทน Twitter
-
+* Contribute.md
+* ติดตั้งและใช้งาน Mastodon / Pleroma แทน Twitter
