@@ -22,15 +22,15 @@
     * [ที่อยู่ไอพี](internet-principles/ip-address.md)
     * [ข้อมูลที่ส่งบนเน็ตก็เหมือนโปสการ์ด](internet-principles/internet-are-postcards.md)
 * การปกปิดตัวตน
-    * [VPN](anonymity/vpn.md)
+    * [VPN](anonymity/VPN.md)
 * การสนทนาอย่างปลอดภัย
-    * [การเข้ารหัส](secure-messaging/encryption.md)
+    * [การเข้ารหัส](secure-messaging/Encryption.md)
 * การร่วมชุมนุมประท้วง
     * [เตรียมอุปกรณ์มือถือ](protesting/device-procedures.md)
 
 ## การมีส่วนร่วม
 
-กรุณาอ่านรายละเอียดที่ไฟล์ [CONTRIBUTION.md]
+กรุณาอ่านรายละเอียดที่ไฟล์ [CONTRIBUTION.md](CONTRIBUTION.md)
 
 ## แหล่งข้อมูลเพิ่มเติม
 
