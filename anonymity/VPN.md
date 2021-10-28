@@ -58,7 +58,7 @@ VPN หรือ Virtual Private Network เข้ามาเป็นส่ว
 
 **คำเตือน: ข้อแนะนำดังกล่าวเขียนขึ้นเมื่อวันที่ 4 เมษายน 2563 และอาจมีเนื้อหาล้าหลังตามเวลาที่เปลี่ยนไป**
 
-[เว็บไซต์แนะนำบริการเพื่อความเป็นส่วนตัว PrivacyTools.io](https://www.privacytools.io/providers/vpn/) แนะนำบริการ VPN ดังนี้เพื่อความปลอดภัย
+[เว็บไซต์แนะนำบริการเพื่อความเป็นส่วนตัว PrivacyGuides.org](https://www.privacyguides.org/providers/vpn/) แนะนำบริการ VPN ดังนี้เพื่อความปลอดภัย
 
 ### [Mullvad](https://mullvad.net/)
 
